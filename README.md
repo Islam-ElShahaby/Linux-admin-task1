@@ -1,28 +1,98 @@
-# Linux-admin-task1
+Linux-admin-task1
 
-Q1 Ubuntu - Mint - Arch.
+Q1
 
-Q2 it's used to get the documentation for terminal commands [apps].
+Ubuntu
 
-Q3 rm is used for removing files and directories - rmdir is used for removing only empty directories 
+Mint
 
-Q4a) output: rmdir: failed to remove 'dir1/dir11': Directory not empty
+Arch
 
-Q4b) output: rmdir: failed to remove 'Documents/OldFiles': Not a directory
+Q2
 
-Q4c) relative: Document\OldFiles 	Absolute: /home/mr-dark/Document\OldFiles
+It's used to get the documentation for terminal commands (apps).
 
-Q7) cd ../../home/user	cd	cd ~	cd/home/user
+Q3
 
-Q8) wc 	wdctl	wget	whatis	whereis	which 	which.debianutils	whiptail	who	whoami	whoopsie	whoopsie-preferences	word-list-compress
+rm is used for removing files and directories.
 
-Q9) get the command type [internal, external, alias]
+rmdir is used for removing only empty directories.
 
-Q10) catman, chmod.
+Q4
 
-Q11) using man -f read file we get
+a) Output:
 
-	read (2)             - read from a file descriptor
-	file (1)             - determine file type
-	FILE (3)             - overview of system data types
-Q12) apropos - search the manual page names and descriptions
+rmdir: failed to remove 'dir1/dir11': Directory not empty
+
+
+b) Output:
+
+rmdir: failed to remove 'Documents/OldFiles': Not a directory
+
+
+c)
+
+Relative: Document\OldFiles
+
+Absolute: /home/mr-dark/Document\OldFiles
+
+Q7
+
+cd ../../home/user
+
+cd
+
+cd ~
+
+cd /home/user
+
+Q8
+
+wc
+
+wdctl
+
+wget
+
+whatis
+
+whereis
+
+which
+
+which.debianutils
+
+whiptail
+
+who
+
+whoami
+
+whoopsie
+
+whoopsie-preferences
+
+word-list-compress
+
+Q9
+
+Get the command type (internal, external, alias).
+
+Q10
+
+catman
+
+chmod
+
+Q11
+
+Using man -f read file we get:
+
+read (2)             - read from a file descriptor
+file (1)             - determine file type
+FILE (3)             - overview of system data types
+
+
+Q12
+
+apropos - search the manual page names and descriptions.
